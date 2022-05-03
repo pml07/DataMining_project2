@@ -30,7 +30,6 @@
 
 ### Training & Accuracy
 ---
-
 * 訓練資料及測試資料以dataset 7:3 之方式區分
 
 * generated data = 100
@@ -42,7 +41,6 @@
 
 ### Output Graph
 ---
-
 * generated data = 100
 ![](https://i.imgur.com/zUxukIW.png)
 * generated data = 5000
